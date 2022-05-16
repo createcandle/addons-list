@@ -4,7 +4,7 @@ This is a list of extra or updated addons for the Candle Controller. A lot of th
 
 Candle is built on Webthings Gateway 1.1, so if an addon works there it should also work on Candle.
 
-So if you want to add an addon to Candle, your best course of action is to first try and get it acccepted on Webthings. That will make your addon available to both communities.
+If you want to add an addon to Candle, your best course of action is to first try and get it acccepted on Webthings. That will make your addon available to both communities.
 https://github.com/WebThingsIO/addon-list
 
 If your addon is not ccepted by Webthings (or if you only want it to be available on Candle for some reason), then you can propose the addon here.
