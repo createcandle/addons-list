@@ -1,1 +1,3 @@
-# addons-list
+# Addons-list
+
+Addons for the Candle Controller
