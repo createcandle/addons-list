@@ -30,9 +30,9 @@
     "author": "CandleSmartHome.com",
     "homepage_url": "https://github.com/createcandle/candleappstore",
     "license_url": "https://raw.githubusercontent.com/createcandle/candleappstore/master/LICENSE",
-    "version": "0.4.11",
-    "url": "https://github.com/createcandle/candleappstore/releases/download/0.4.11/candleappstore-0.4.11-linux-arm-v3.9.tgz",
-    "checksum": "0e38bdd70c514d66c9ed33d3dd741a2564b0787b9f9ad901afa49c045642b24e",
+    "version": "0.4.12",
+    "url": "https://github.com/createcandle/candleappstore/releases/download/0.4.12/candleappstore-0.4.12-linux-arm-v3.9.tgz",
+    "checksum": "91b9b2f57aed3e1bcef9b0abe933ae7467473563dcf8156115845f167c53158d",
     "primary_type": "extension"
   },
   {
