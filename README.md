@@ -7,7 +7,7 @@ Candle is built on Webthings Gateway 1.1, so if an addon works there it should a
 If you want to add an addon to Candle, your best course of action is to first try and get it acccepted on Webthings. That will make your addon available to both communities.
 https://github.com/WebThingsIO/addon-list
 
-If your addon is not ccepted by Webthings (or if you only want it to be available on Candle for some reason), then you can propose the addon here.
+If your addon is not accepted by Webthings (or if you only want it to be available on Candle for some reason), then you can propose the addon here.
 
 Candle is focussed on two things: protecting privacy and ease of use. 
 
