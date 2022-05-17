@@ -42,9 +42,9 @@
     "author": "CandleSmartHome.com",
     "homepage_url": "https://github.com/createcandle/candlecam",
     "license_url": "https://raw.githubusercontent.com/createcandle/candlecam/master/LICENSE",
-    "version": "0.0.19",
-    "url": "https://github.com/createcandle/candlecam/releases/download/0.0.19/candlecam-0.0.19-linux-arm-v3.9.tgz",
-    "checksum": "26651f80cac0fab75733e680a87550850ec332023920fa04792eca8dbd4d1783",
+    "version": "0.0.23",
+    "url": "https://github.com/createcandle/candlecam/releases/download/0.0.23/candlecam-0.0.23-linux-arm-v3.9.tgz",
+    "checksum": "06a131be9e32fb1ceee28a0da8dd4f372e7cb1a8fed1a7003d067d9668813680",
     "primary_type": "extension"
   },
   {
