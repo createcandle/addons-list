@@ -91,9 +91,9 @@
     "homepage_url": "https://github.com/flatsiedatsie/followers-addon",
     "license_url": "https://raw.githubusercontent.com/flatsiedatsie/followers-addon/master/LICENSE",
     "primary_type": "extension",
-	"version": "0.6.7",
-	"url": "https://github.com/flatsiedatsie/followers-addon/releases/download/0.6.7/followers-0.6.7.tgz",
-	"checksum": "9c9676d989545a2e8a257dc6a51306ae66127ab84b5e91e44f40591ca3440be3"
+    "version": "0.6.7",
+    "url": "https://github.com/flatsiedatsie/followers-addon/releases/download/0.6.7/followers-0.6.7.tgz",
+    "checksum": "9c9676d989545a2e8a257dc6a51306ae66127ab84b5e91e44f40591ca3440be3"
   },
   {
     "id": "highlights",
@@ -161,9 +161,9 @@
     "author": "CandleSmartHome.com",
     "homepage_url": "https://github.com/createcandle/power-settings",
     "license_url": "https://raw.githubusercontent.com/createcandle/power-settings/master/LICENSE",
-    "version": "3.1.33",
-    "url": "https://github.com/createcandle/power-settings/releases/download/3.1.33/power-settings-3.1.33.tgz",
-    "checksum": "bcab6a40538455d0a5ed2c5eb42f47aa42585dde3b8007075ab9622305fb9ea9",
+    "version": "3.2.0",
+    "url": "https://github.com/createcandle/power-settings/releases/download/3.2.0/power-settings-3.2.0.tgz",
+    "checksum": "8de44c3d2e48e13ce1e687c660f4ba1456a96356583d87e4416f1cd7163f6323",
     "primary_type": "extension"
   },
   {
