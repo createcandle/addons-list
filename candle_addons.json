@@ -174,9 +174,9 @@
     "homepage_url": "https://github.com/createcandle/privacy-manager",
     "license_url": "https://raw.githubusercontent.com/createcandle/privacy-manager/master/LICENSE",
     "primary_type": "extension",
-    "version": "0.2.1",
-    "url": "https://github.com/createcandle/privacy-manager/releases/download/0.2.1/privacy-manager-0.2.1.tgz",
-    "checksum": "2228222b75de1b0c412c20317e78cd29b8434ca603b2e0d19ee0aad1c57d07fa"
+    "version": "0.2.4",
+    "url": "https://github.com/createcandle/privacy-manager/releases/download/0.2.4/privacy-manager-0.2.4.tgz",
+    "checksum": "0ec44e612c240cbfbb010f595dd650e6745573bcb7d2b94e4f9231cea27617f4"
   },
   {
     "id": "voco",
