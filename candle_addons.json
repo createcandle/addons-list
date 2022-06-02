@@ -210,9 +210,9 @@
     "homepage_url": "https://github.com/createcandle/welcome",
     "license_url": "https://raw.githubusercontent.com/createcandle/welcome/master/LICENSE",
     "primary_type": "extension",
-    "version": "1.0.0",
-    "url": "https://github.com/createcandle/welcome/releases/download/1.0.0/welcome-1.0.0.tgz",
-    "checksum": "20f0f8ba6c2be39b6721056434313c00c091ae721063683c93efe91a9a546b59"
+    "version": "1.0.1",
+    "url": "https://github.com/createcandle/welcome/releases/download/1.0.1/welcome-1.0.1.tgz",
+    "checksum": "e8a0f5f61a061f2b521fdf84e12c21a6581f76de90a07a1bcd3745415da41a11"
   },
   {
     "id": "zigbee2mqtt-adapter",
