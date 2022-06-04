@@ -17,3 +17,7 @@ Please make your addon as privacy protecting as possible. For example:
 
 Please make your addon easy to use for non-technical people:
 - You could create an UI extension to let them change settings or provide input more intuitively or more visually.
+
+
+You can learn more about the Candle store here:
+https://github.com/createcandle/candleappstore
