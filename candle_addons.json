@@ -126,9 +126,9 @@
     "author": "CandleSmartHome.com",
     "homepage_url": "https://github.com/flatsiedatsie/internet-radio",
     "license_url": "https://raw.githubusercontent.com/flatsiedatsie/internet-radio/master/LICENSE",
-    "version": "2.1.29",
-    "url": "https://github.com/flatsiedatsie/internet-radio/releases/download/2.1.29/internet-radio-2.1.29.tgz",
-    "checksum": "280fcbf01b87a7d8b4bb861465c25a306c538cff307b0e8e34962d83e35753b9",
+    "version": "2.1.30",
+    "url": "https://github.com/flatsiedatsie/internet-radio/releases/download/2.1.30/internet-radio-2.1.30.tgz",
+    "checksum": "c47fb648cb1bf97305dca4700e677652ab49f60a4bd13287000a3e2245de2b83",
     "primary_type": "adapter"
   },
   {
@@ -186,9 +186,9 @@
     "homepage_url": "https://www.candlesmarthome.com/voco-privacy-friendly-voice-control",
     "license_url": "https://raw.githubusercontent.com/createcandle/voco/master/LICENSE",
     "primary_type": "adapter",
-    "version": "3.0.28",
-    "url": "https://github.com/createcandle/voco/releases/download/3.0.28/voco-3.0.28-linux-arm-v3.9.tgz",
-    "checksum": "c041ae84b194c5b7a042efcc982893d17bde63f5ab9da764fb54b8d76696a6a3"
+    "version": "3.0.30",
+    "url": "https://github.com/createcandle/voco/releases/download/3.0.30/voco-3.0.30-linux-arm-v3.9.tgz",
+    "checksum": "a9dc26560be2627de6f3b6d688f9f4dfa15c363bd6889ffecbb0ae8ad3cce771"
   },
   {
     "id": "webinterface",
