@@ -178,6 +178,18 @@
     "url": "https://github.com/createcandle/privacy-manager/releases/download/0.2.5/privacy-manager-0.2.5.tgz",
     "checksum": "1d11a4df61ee29fb25fd74e486994344778e3072756b5ab491ebd070f095cd55"
   },
+   {
+    "id": "scenes",
+    "name": "Scenes",
+    "description": "Scenes allow you to switch many devices at once.",
+    "author": "CandleSmartHome.com",
+    "homepage_url": "https://github.com/createcandle/scenes",
+    "license_url": "https://raw.githubusercontent.com/createcandle/scenes/master/LICENSE",
+    "primary_type": "extension",
+    "version": "0.0.2",
+    "url": "https://github.com/createcandle/scenes/releases/download/0.0.2/scenes-0.0.2.tgz",
+    "checksum": "d5afb92755cbb0c788a654ccb5bd2aed25c3d184441436e498aefe75c294fe3f"
+  },
   {
     "id": "voco",
     "name": "Voco",
