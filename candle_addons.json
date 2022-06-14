@@ -54,9 +54,9 @@
     "author": "CandleSmartHome.com",
     "homepage_url": "https://github.com/createcandle/candle-theme",
     "license_url": "https://github.com/createcandle/candle-theme/master/LICENSE",
-    "version": "2.4.9",
-    "url": "https://github.com/createcandle/candle-theme/releases/download/2.4.9/candle-theme-2.4.9.tgz",
-    "checksum": "576e4f862173b58a833cde8614d812fc1f43978c2397d30821fdfe920538f56e",
+    "version": "2.4.10",
+    "url": "https://github.com/createcandle/candle-theme/releases/download/2.4.10/candle-theme-2.4.10.tgz",
+    "checksum": "2f6b62a6b2116d2f355192f82630adef4bb62bcad7c5fc7d032fb20481063d7f",
     "primary_type": "extension"
   },
   {
@@ -186,9 +186,9 @@
     "homepage_url": "https://github.com/createcandle/scenes",
     "license_url": "https://raw.githubusercontent.com/createcandle/scenes/master/LICENSE",
     "primary_type": "extension",
-    "version": "0.0.7",
-    "url": "https://github.com/createcandle/scenes/releases/download/0.0.7/scenes-0.0.7.tgz",
-    "checksum": "560e7bc0ad3982267bc72938688ba78b8852267239082b0416027012a4a660e4"
+    "version": "0.0.8",
+    "url": "https://github.com/createcandle/scenes/releases/download/0.0.8/scenes-0.0.8.tgz",
+    "checksum": "253dd3219f3fd63e0b0c287c79ef2620404e1087876f0daba459255c7e8339bc"
   },
   {
     "id": "voco",
