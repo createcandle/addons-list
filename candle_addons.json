@@ -186,9 +186,9 @@
     "homepage_url": "https://github.com/createcandle/scenes",
     "license_url": "https://raw.githubusercontent.com/createcandle/scenes/master/LICENSE",
     "primary_type": "extension",
-    "version": "0.0.6",
-    "url": "https://github.com/createcandle/scenes/releases/download/0.0.6/scenes-0.0.6.tgz",
-    "checksum": "8c9c2e017203260652d8851be07b46da16e723f791d65d002dcc0ba49b292a1e"
+    "version": "0.0.7",
+    "url": "https://github.com/createcandle/scenes/releases/download/0.0.7/scenes-0.0.7.tgz",
+    "checksum": "560e7bc0ad3982267bc72938688ba78b8852267239082b0416027012a4a660e4"
   },
   {
     "id": "voco",
