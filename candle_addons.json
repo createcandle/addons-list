@@ -181,14 +181,14 @@
    {
     "id": "scenes",
     "name": "Scenes",
-    "description": "Scenes allow you to switch many devices at once.",
+    "description": "Quickly change the values of multiple things",
     "author": "CandleSmartHome.com",
     "homepage_url": "https://github.com/createcandle/scenes",
     "license_url": "https://raw.githubusercontent.com/createcandle/scenes/master/LICENSE",
     "primary_type": "extension",
-    "version": "0.0.5",
-    "url": "https://github.com/createcandle/scenes/releases/download/0.0.5/scenes-0.0.5.tgz",
-    "checksum": "49f6d30b98e9611cf05cd2cb77b8701567362f5249fb134481cc6c99e931f5a7"
+    "version": "0.0.6",
+    "url": "https://github.com/createcandle/scenes/releases/download/0.0.6/scenes-0.0.6.tgz",
+    "checksum": "8c9c2e017203260652d8851be07b46da16e723f791d65d002dcc0ba49b292a1e"
   },
   {
     "id": "voco",
