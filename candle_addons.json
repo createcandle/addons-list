@@ -215,16 +215,16 @@
     "primary_type": "adapter"
   },
   {
-    "id": "welcome",
-    "name": "Welcome",
+    "id": "tutorial",
+    "name": "Tutorial",
     "description": "Helps beginners with getting started",
     "author": "CandleSmartHome.com",
-    "homepage_url": "https://github.com/createcandle/welcome",
-    "license_url": "https://raw.githubusercontent.com/createcandle/welcome/master/LICENSE",
+    "homepage_url": "https://github.com/createcandle/tutorial",
+    "license_url": "https://raw.githubusercontent.com/createcandle/tutorial/master/LICENSE",
     "primary_type": "extension",
-    "version": "1.0.3",
-    "url": "https://github.com/createcandle/welcome/releases/download/1.0.3/welcome-1.0.3.tgz",
-    "checksum": "413fc2eab9b1679e1b65a58461a62ebb227bc03c5597b5ae197322f1dccff4e3"
+    "version": "1.0.5",
+    "url": "https://github.com/createcandle/tutorial/releases/download/1.0.5/tutorial-1.0.5.tgz",
+    "checksum": "8cf7e5afe12c32aeb51038449f714f0a69297bf94c93edd47af83460c447c298"
   },
   {
     "id": "zigbee2mqtt-adapter",
