@@ -222,9 +222,9 @@
     "homepage_url": "https://github.com/createcandle/tutorial",
     "license_url": "https://raw.githubusercontent.com/createcandle/tutorial/master/LICENSE",
     "primary_type": "extension",
-    "version": "1.0.5",
-    "url": "https://github.com/createcandle/tutorial/releases/download/1.0.5/tutorial-1.0.5.tgz",
-    "checksum": "8cf7e5afe12c32aeb51038449f714f0a69297bf94c93edd47af83460c447c298"
+    "version": "1.0.7",
+    "url": "https://github.com/createcandle/tutorial/releases/download/1.0.7/tutorial-1.0.7.tgz",
+    "checksum": "8456ca58f3d41d8b28d2aa9189d986422b56710859dcab2b48ad5a11ba2f8ff3"
   },
   {
     "id": "zigbee2mqtt-adapter",
