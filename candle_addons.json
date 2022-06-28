@@ -54,9 +54,9 @@
     "author": "CandleSmartHome.com",
     "homepage_url": "https://github.com/createcandle/candle-theme",
     "license_url": "https://github.com/createcandle/candle-theme/master/LICENSE",
-    "version": "2.4.10",
-    "url": "https://github.com/createcandle/candle-theme/releases/download/2.4.10/candle-theme-2.4.10.tgz",
-    "checksum": "2f6b62a6b2116d2f355192f82630adef4bb62bcad7c5fc7d032fb20481063d7f",
+    "version": "2.4.11",
+    "url": "https://github.com/createcandle/candle-theme/releases/download/2.4.11/candle-theme-2.4.11.tgz",
+    "checksum": "9bf03bd63e6db40c472f6d1ecca9e1539365375a4ac0106e8acce7828ed8029d",
     "primary_type": "extension"
   },
   {
