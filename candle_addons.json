@@ -209,9 +209,9 @@
     "author": "CandleSmartHome.com",
     "homepage_url": "https://github.com/createcandle/webinterface",
     "license_url": "https://raw.githubusercontent.com/createcandle/webinterface/master/LICENSE",
-    "version": "0.1.16",
-    "url": "https://github.com/createcandle/webinterface/releases/download/0.1.16/webinterface-0.1.16.tgz",
-    "checksum": "db1f76469497fe3133e601a656572e260ab888d97da195c0e62c3879bcdb9a3f",
+    "version": "0.2.0",
+    "url": "https://github.com/createcandle/webinterface/releases/download/0.2.0/webinterface-0.2.0.tgz",
+    "checksum": "49fa90bd7048ea2765b7f27d7f1271731b1e4616080ca473b0dd0be3d1eb979f",
     "primary_type": "adapter"
   },
   {
