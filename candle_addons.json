@@ -138,9 +138,9 @@
     "author": "CandleSmartHome.com",
     "homepage_url": "https://github.com/flatsiedatsie/Webthings-network-presence-detection",
     "license_url": "https://raw.githubusercontent.com/flatsiedatsie/Webthings-network-presence-detection/master/LICENSE",
-    "version": "1.3.10",
-    "url": "https://github.com/flatsiedatsie/webthings-network-presence-detection/releases/download/1.3.10/network-presence-detection-adapter-1.3.10.tgz",
-    "checksum": "3ad2b05d7bc9a48c8b2cf51486c9724d06c751650182577e600ed06eeb34c979"
+    "version": "2.0.3",
+    "url": "https://github.com/flatsiedatsie/webthings-network-presence-detection/releases/download/2.0.3/network-presence-detection-adapter-2.0.3.tgz",
+    "checksum": "0dc52cfe9d607920bbef8ee890f06ed029afca5ea6016aa370e962c4b625015f"
   },
   {
     "id": "photo-frame",
