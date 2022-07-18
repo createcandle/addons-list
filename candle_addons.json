@@ -91,9 +91,9 @@
     "homepage_url": "https://github.com/flatsiedatsie/followers-addon",
     "license_url": "https://raw.githubusercontent.com/flatsiedatsie/followers-addon/master/LICENSE",
     "primary_type": "extension",
-    "version": "0.6.7",
-    "url": "https://github.com/flatsiedatsie/followers-addon/releases/download/0.6.7/followers-0.6.7.tgz",
-    "checksum": "9c9676d989545a2e8a257dc6a51306ae66127ab84b5e91e44f40591ca3440be3"
+    "version": "0.6.8",
+    "url": "https://github.com/flatsiedatsie/followers-addon/releases/download/0.6.8/followers-0.6.8.tgz",
+    "checksum": "c00f60c85448bda2641ef8c4c62dff3fe2474d11a083f3f9bab740088c6da5f1"
   },
   {
     "id": "highlights",
