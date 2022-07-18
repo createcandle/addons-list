@@ -234,8 +234,8 @@
     "homepage_url": "https://github.com/kabbi/zigbee2mqtt-adapter",
     "license_url": "https://github.com/kabbi/zigbee2mqtt-adapter/blob/master/LICENSE",
     "primary_type": "adapter",
-    "version": "1.0.29",
-    "url": "https://github.com/kabbi/zigbee2mqtt-adapter/releases/download/1.0.29/zigbee2mqtt-adapter-1.0.29.tgz",
-    "checksum": "5e7e42d820f43d8b6caa8b45d6b9c164f688b2c508a096a375b81864df719d3f"
+    "version": "1.0.30",
+    "url": "https://github.com/kabbi/zigbee2mqtt-adapter/releases/download/1.0.30/zigbee2mqtt-adapter-1.0.30.tgz",
+    "checksum": "219193a99da061f36d9f12f21ff8ba44bf86096721fb12cc9dc9e8b526c2e97a"
   }
 ]
