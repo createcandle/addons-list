@@ -150,9 +150,9 @@
     "homepage_url": "https://github.com/flatsiedatsie/photo-frame",
     "license_url": "https://raw.githubusercontent.com/flatsiedatsie/photo-frame/master/LICENSE",
     "primary_type": "extension",
-    "version": "1.4.14",
-    "url": "https://github.com/flatsiedatsie/photo-frame/releases/download/1.4.14/photo-frame-1.4.14.tgz",
-    "checksum": "1c222ec69a7902dc1549c72bb2b9a5ae25645178e2750ab2ff802a169073e91b"
+    "version": "1.4.16",
+    "url": "https://github.com/flatsiedatsie/photo-frame/releases/download/1.4.16/photo-frame-1.4.16.tgz",
+    "checksum": "7588ee710bbaf79ca95f763ccddf6b074f553300f92efbe2243fa74fef995ada"
   },
   {
     "id": "power-settings",
