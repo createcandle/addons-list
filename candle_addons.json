@@ -42,9 +42,9 @@
     "author": "CandleSmartHome.com",
     "homepage_url": "https://github.com/createcandle/candlecam",
     "license_url": "https://raw.githubusercontent.com/createcandle/candlecam/master/LICENSE",
-    "version": "0.0.24",
-    "url": "https://github.com/createcandle/candlecam/releases/download/0.0.24/candlecam-0.0.24-linux-arm-v3.9.tgz",
-    "checksum": "3e607ddca53ff82fe75926d9b0aef20d6c3f4f4ea2cef5ad445d42c5cc64b332",
+    "version": "0.0.25",
+    "url": "https://github.com/createcandle/candlecam/releases/download/0.0.25/candlecam-0.0.25-linux-arm-v3.9.tgz",
+    "checksum": "632eb435657d1ad4da8443c93c2d41cb3ec85d8f9111df763401d47cd2003faf",
     "primary_type": "extension"
   },
   {
@@ -209,9 +209,9 @@
     "author": "CandleSmartHome.com",
     "homepage_url": "https://github.com/createcandle/webinterface",
     "license_url": "https://raw.githubusercontent.com/createcandle/webinterface/master/LICENSE",
-    "version": "0.2.1",
-    "url": "https://github.com/createcandle/webinterface/releases/download/0.2.1/webinterface-0.2.1.tgz",
-    "checksum": "f6d45204acaf68b65617642fae2c700f16c381dbba15820101a307f721549558",
+    "version": "0.2.2",
+    "url": "https://github.com/createcandle/webinterface/releases/download/0.2.2/webinterface-0.2.2.tgz",
+    "checksum": "e29f84534f6bbe39b3b2f3844fcd9176ecaebbb873db998fc5d5ab7a7f227d11",
     "primary_type": "adapter"
   },
   {
