@@ -126,9 +126,9 @@
     "author": "CandleSmartHome.com",
     "homepage_url": "https://github.com/flatsiedatsie/internet-radio",
     "license_url": "https://raw.githubusercontent.com/flatsiedatsie/internet-radio/master/LICENSE",
-    "version": "2.1.31",
-    "url": "https://github.com/flatsiedatsie/internet-radio/releases/download/2.1.31/internet-radio-2.1.31.tgz",
-    "checksum": "f1637b260a04c7dc2c127c92a97c39bdc0b0cc4c2cb2f5222906b689ff8b4804",
+    "version": "2.1.32",
+    "url": "https://github.com/flatsiedatsie/internet-radio/releases/download/2.1.32/internet-radio-2.1.32.tgz",
+    "checksum": "8a5a344792385e4b51677f03d422a4b1f5640e2bbdf99a50655de8a742c57c29",
     "primary_type": "adapter"
   },
   {
