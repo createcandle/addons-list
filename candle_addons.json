@@ -161,9 +161,9 @@
     "author": "CandleSmartHome.com",
     "homepage_url": "https://github.com/createcandle/power-settings",
     "license_url": "https://raw.githubusercontent.com/createcandle/power-settings/master/LICENSE",
-    "version": "3.2.36",
-    "url": "https://github.com/createcandle/power-settings/releases/download/3.2.36/power-settings-3.2.36.tgz",
-    "checksum": "3bcd7612a5e8473265b929a6636d1979ca95709f662b1f35d372c4009b13b631",
+    "version": "3.2.37",
+    "url": "https://github.com/createcandle/power-settings/releases/download/3.2.37/power-settings-3.2.37.tgz",
+    "checksum": "b708fb3f423eaf74aa5a31704223c98a4238f3bb86b10f6f0a3c20cd37d7631d",
     "primary_type": "extension"
   },
   {
