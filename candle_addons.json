@@ -174,9 +174,9 @@
     "homepage_url": "https://github.com/createcandle/privacy-manager",
     "license_url": "https://raw.githubusercontent.com/createcandle/privacy-manager/master/LICENSE",
     "primary_type": "extension",
-    "version": "0.2.8",
-    "url": "https://github.com/createcandle/privacy-manager/releases/download/0.2.8/privacy-manager-0.2.8.tgz",
-    "checksum": "60eed3d030b3f50a1267987d3663950c9439081c1b54611d6bc89efceaf4d331"
+    "version": "0.3.0",
+    "url": "https://github.com/createcandle/privacy-manager/releases/download/0.3.0/privacy-manager-0.3.0.tgz",
+    "checksum": "a7af7084f7748f41c1a58df6bb80be7c06ff1724cef0acbdb50e4efc28a1c944"
   },
    {
     "id": "scenes",
