@@ -67,9 +67,9 @@
     "homepage_url": "https://github.com/flatsiedatsie/display-toggle",
     "license_url": "https://raw.githubusercontent.com/flatsiedatsie/display-toggle/master/LICENSE",
     "primary_type": "adapter",
-    "version": "1.1.4",
-    "url": "https://github.com/flatsiedatsie/display-toggle/releases/download/1.1.4/display-toggle-1.1.4.tgz",
-    "checksum": "b2ea71ce28cc4e943ac27e3204c7d25aacc716318fbb91eb05cd345bfbc1418c"
+    "version": "1.1.5",
+    "url": "https://github.com/flatsiedatsie/display-toggle/releases/download/1.1.5/display-toggle-1.1.5.tgz",
+    "checksum": "dc6c7118b0b9cf783ff33413b3bbb5c19abc7fb4e58d75f9347f131e40b0b4b9"
   },
   {
     "id": "energyuse",
