@@ -60,6 +60,18 @@
     "primary_type": "extension"
   },
   {
+    "id": "candle-weather",
+    "name": "Candle weather",
+    "description": "Shows weather predictions. Uses data from World Meteorological Organization.",
+    "author": "CandleSmartHome.com",
+    "homepage_url": "https://github.com/createcandle/candle-theme",
+    "license_url": "https://github.com/createcandle/candle-theme/master/LICENSE",
+    "version": "0.0.4",
+    "url": "https://github.com/createcandle/candle-weather/releases/download/0.0.4/candle-weather-0.0.4.tgz",
+    "checksum": "e404450e2ae4cdc32d846a3f53e9bc72fa6c9cd8cf27a460039ea99d604970be",
+    "primary_type": "extension"
+  },
+  {
     "id": "display-toggle",
     "name": "Display toggle",
     "description": "Turn a Raspberry Pi (touch) screen on and off",
