@@ -66,9 +66,9 @@
     "author": "CandleSmartHome.com",
     "homepage_url": "https://github.com/createcandle/candle-weather",
     "license_url": "https://github.com/createcandle/candle-weather/master/LICENSE",
-    "version": "0.0.4",
-    "url": "https://github.com/createcandle/candle-weather/releases/download/0.0.4/candle-weather-0.0.4-linux-arm-v3.9.tgz",
-    "checksum": "e404450e2ae4cdc32d846a3f53e9bc72fa6c9cd8cf27a460039ea99d604970be",
+    "version": "0.0.5",
+    "url": "https://github.com/createcandle/candle-weather/releases/download/0.0.5/candle-weather-0.0.5-linux-arm-v3.9.tgz",
+    "checksum": "075a1ab2f79817b0044829034d444f226228b6097d34166a780fb233e03f57f2",
     "primary_type": "extension"
   },
   {
