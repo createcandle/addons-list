@@ -210,9 +210,9 @@
     "homepage_url": "https://www.candlesmarthome.com/voco-privacy-friendly-voice-control",
     "license_url": "https://raw.githubusercontent.com/createcandle/voco/master/LICENSE",
     "primary_type": "adapter",
-    "version": "4.0.2",
-    "url": "https://github.com/createcandle/voco/releases/download/4.0.2/voco-4.0.2-linux-arm-v3.9.tgz",
-    "checksum": "15314e3acfaaa80ca040c210d9151ca1a731bad1cd41f31b75f77c62a833e6f8"
+    "version": "4.0.4",
+    "url": "https://github.com/createcandle/voco/releases/download/4.0.4/voco-4.0.4-linux-arm-v3.9.tgz",
+    "checksum": "0a591ad9797f97c2eeed902bfd76ec64fd43ed41172ae374957dde526d7ee50a"
   },
   {
     "id": "webinterface",
