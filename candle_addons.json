@@ -90,9 +90,9 @@
     "author": "CandleSmartHome.com",
     "homepage_url": "https://github.com/createcandle/energyuse",
     "license_url": "https://raw.githubusercontent.com/createcandle/energyuse/master/LICENSE",
-    "version": "0.2.17",
-    "url": "https://github.com/createcandle/energyuse/releases/download/0.2.17/energyuse-0.2.17.tgz",
-    "checksum": "e9aed1d5d6da8ab858bd787ceef9f953874fc0c9797aa22232840d238e3bb184",
+    "version": "0.2.18",
+    "url": "https://github.com/createcandle/energyuse/releases/download/0.2.18/energyuse-0.2.18.tgz",
+    "checksum": "dd4686ddcfb1edc2b2caa99a82aafcf332cc940cf15581e4ea2f57b820d8d2b5",
     "primary_type": "adapter"
   },
   {
