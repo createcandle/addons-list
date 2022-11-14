@@ -44,7 +44,7 @@
     "license_url": "https://github.com/createcandle/Candle-manager-addon/master/LICENSE",
     "version": "1.3.2",
     "url": "https://github.com/createcandle/Candle-manager-addon/releases/download/1.3.2/Candle-manager-addon-1.3.2-linux-arm-v3.9.tgz",
-    "checksum": "8c9631ddc9e91d2ca73ee3b9f23775e29230c231830d0f902860142347f98e3f",
+    "checksum": "969197f2cac8aa644eb477c0cccb0fc9a9a0961512fc6929e4c2b3260df32900",
     "primary_type": "extension"
   },
   {
@@ -56,7 +56,7 @@
     "license_url": "https://raw.githubusercontent.com/createcandle/candlecam/master/LICENSE",
     "version": "0.1.7",
     "url": "https://github.com/createcandle/candlecam/releases/download/0.1.7/candlecam-0.1.7-linux-arm-v3.9.tgz",
-    "checksum": "969197f2cac8aa644eb477c0cccb0fc9a9a0961512fc6929e4c2b3260df32900",
+    "checksum": "8c9631ddc9e91d2ca73ee3b9f23775e29230c231830d0f902860142347f98e3f",
     "primary_type": "extension"
   },
   {
