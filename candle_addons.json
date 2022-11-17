@@ -103,7 +103,7 @@
     "homepage_url": "https://github.com/createcandle/energyuse",
     "license_url": "https://raw.githubusercontent.com/createcandle/energyuse/master/LICENSE",
     "version": "0.3.1",
-    "url": "https://github.com/createcandle/energyuse/releases/download/0.3.1/energyuse-0.3.1.tgz",
+    "url": "https://github.com/createcandle/energyuse/releases/download/0.3.1/energyuse-0.3.1-linux-arm-v3.9.tgz",
     "checksum": "178c092ca22bd5018125a8bcf1ed8c9512b3329ffaa8ca8ef0355afffc7d13fe",
     "primary_type": "adapter"
   },
