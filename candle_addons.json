@@ -138,9 +138,9 @@
     "author": "CandleSmartHome.com",
     "homepage_url": "https://www.candlesmarthome.com/hotspot",
     "license_url": "https://raw.githubusercontent.com/createcandle/hotspot/master/LICENSE",
-    "version": "0.1.3",
-    "url": "https://github.com/createcandle/hotspot/releases/download/0.1.3/hotspot-0.1.3-linux-arm-v3.9.tgz",
-    "checksum": "83cf09abc1027020b481df516441b5215e74ec9a2785e323a24dd883facab6c9",
+    "version": "0.1.5",
+    "url": "https://github.com/createcandle/hotspot/releases/download/0.1.5/hotspot-0.1.5-linux-arm-v3.9.tgz",
+    "checksum": "8ffe742d900af6a47f211ad8a6ebfd89ac1d74105d47402b16fd1b638d01264e",
     "primary_type": "adapter"
   },
   {
