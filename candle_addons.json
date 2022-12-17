@@ -84,6 +84,18 @@
     "primary_type": "extension"
   },
   {
+    "id": "candle-zwave-adapter",
+    "name": "Candle Z-wave",
+    "description": "Support for connecting with Z-wave devives through a USB dongle",
+    "author": "CandleSmartHome.com",
+    "homepage_url": "https://github.com/createcandle/candle-zwave-adapter",
+    "license_url": "https://github.com/createcandle/candle-zwave-adapter/master/LICENSE",
+    "version": "0.11.1",
+    "url": "https://github.com/createcandle/candle-zwave-adapter/releases/download/0.11.1/candle-zwave-adapter-0.11.1-linux-arm-v12.tgz",
+    "checksum": "cc9eae4e2134d40faabe407570fea452c2e8b87ece2fd0e0a84f4ab6876b4505",
+    "primary_type": "adapter"
+  },
+  {
     "id": "display-toggle",
     "name": "Display toggle",
     "description": "Turn a Raspberry Pi (touch) screen on and off",
