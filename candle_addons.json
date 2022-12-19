@@ -42,7 +42,8 @@
           "min": "0.10.0",
           "max": "*"
         }
-    },
+      }
+    ]
   },
   {
     "id": "bluetoothpairing",
