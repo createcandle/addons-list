@@ -7,9 +7,42 @@
     "homepage_url": "https://github.com/flatsiedatsie/airport",
     "license_url": "https://raw.githubusercontent.com/flatsiedatsie/airport/master/LICENSE",
     "primary_type": "adapter",
-    "version": "1.0.3",
-    "url": "https://github.com/flatsiedatsie/airport/releases/download/1.0.3/airport-1.0.3.tgz",
-    "checksum": "326d90da6a2656dc3f4309da2d55983cfbbbb2d022839cc017aedbfea51310ed"
+    "version": "1.0.6",
+    "url": "https://github.com/flatsiedatsie/airport/releases/download/1.0.6/airport-1.0.6-linux-arm-v3.9.tgz",
+    "checksum": "326d90da6a2656dc3f4309da2d55983cfbbbb2d022839cc017aedbfea51310ed",
+    "packages": [
+      {
+        "architecture": "linux-arm",
+        "language": {
+          "name": "python",
+          "versions": [
+            "3.9"
+          ]
+        },
+        "version": "1.0.6",
+        "url": "https://github.com/flatsiedatsie/airport/releases/download/1.0.6/airport-1.0.6-linux-arm-v3.9.tgz",
+        "checksum": "91093d68191fe92f2de31ac8a650c8fefc5cbbbe2956896986012da8d9b85e92",
+        "gateway": {
+          "min": "0.10.0",
+          "max": "*"
+        }
+      },
+      {
+        "architecture": "linux-arm64",
+        "language": {
+          "name": "python",
+          "versions": [
+            "3.9"
+          ]
+        },
+        "version": "1.0.6",
+        "url": "https://github.com/flatsiedatsie/airport/releases/download/1.0.6/airport-1.0.6-linux-arm64-v3.9.tgz",
+        "checksum": "8c71972b65e07f5b6ea75cea146b9456a8f695de854b5a6d26885188c3a9b919",
+        "gateway": {
+          "min": "0.10.0",
+          "max": "*"
+        }
+    },
   },
   {
     "id": "bluetoothpairing",
