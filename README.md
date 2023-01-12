@@ -2,12 +2,12 @@
 
 This is a list of extra or updated addons for the Candle Controller. A lot of these addons are only available on Candle, and not on Webthings.
 
-Candle is built on Webthings Gateway 1.1, so if an addon works there it should also work on Candle.
+Candle is built on Webthings Gateway 1.1/2.0, so if an addon works there it should also work on Candle.
 
 If you want to add an addon to Candle, your best course of action is to first try and get it acccepted on Webthings. That will make your addon available to both communities.
 https://github.com/WebThingsIO/addon-list
 
-If your addon is not accepted by Webthings (or if you only want it to be available on Candle for some reason), then you can propose the addon here.
+If your addon is not accepted by Webthings (or if you only want it to be available on Candle for some reason), then you can propose the addon here. The back-end assumes the addon is on Github.
 
 Candle is focussed on two things: protecting privacy and ease of use. 
 
