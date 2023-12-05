@@ -22,5 +22,6 @@
   'createcandle/voco',
   'createcandle/webinterface',
   'createcandle/matter-adapter',
+  'createcandle/browser',
   'kabbi/zigbee2mqtt-adapter'
 ]
